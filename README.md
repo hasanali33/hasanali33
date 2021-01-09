@@ -1,4 +1,5 @@
-### Hi there 👋
+### hi there,I'm Ali 👋
+
 
 <!--
 **hasanali33/hasanali33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+(he/him)
+
+pursing a second degree in Computer Science with dreams and a desire to make tech more accountable and equitable.
+
+currently reading books about healthcare, music, and tech, hit me up if you want to discuss :)
+
+always down to talk more regarding tech, healthcare, and sports!
