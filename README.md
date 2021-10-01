@@ -18,8 +18,4 @@ Here are some ideas to get you started:
 
 (he/him)
 
-pursing a second degree in Computer Science with dreams and a desire to make tech more accountable and equitable.
 
-currently reading books about healthcare, music, and tech, hit me up if you want to discuss :)
-
-always down to talk more regarding tech, healthcare, and sports!
